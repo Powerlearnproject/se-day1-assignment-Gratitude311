@@ -5,10 +5,15 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+
 #**What is Cryptocurrency**
+
 *Cryptocurrency is a virtual digital*
+
 ##**How to Earn**
+
 Trade
+
 P2P
 
 Identify and describe at least three key milestones in the evolution of software engineering.
