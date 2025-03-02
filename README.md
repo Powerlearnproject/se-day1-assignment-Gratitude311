@@ -6,11 +6,11 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
-#**What is Cryptocurrency**
+# **What is Cryptocurrency**
 
 *Cryptocurrency is a virtual digital*
 
-##**How to Earn**
+## **How to Earn**
 
 Trade
 
