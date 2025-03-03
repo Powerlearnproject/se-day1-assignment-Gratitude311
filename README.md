@@ -83,7 +83,8 @@ In E-commerce website development where new features and user experience enhance
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
-**Software Developer** - Designs, code, and maintain software applications
+# Software Developer
+Designs, code, and maintain software applications
 
 Write clean, efficient, and maintainable code
 
@@ -97,7 +98,8 @@ Optimize application performance and scalability
 
 Maintain documentation for code and system design
 
-**Quality Assurance Engineer** - Ensures the software meets quality standards before release
+# Quality Assurance Engineer
+Ensures the software meets quality standards before release
 
 Develop and execute test plans, cases, and scripts
 
@@ -111,7 +113,8 @@ Work closely with developers to ensure issues are resolved
 
 Verify that the final product meets business and user requirements
 
-**Project Manager** - Overseas the software development process to ensure timely and successful project completion
+# Project Manager
+Overseas the software development process to ensure timely and successful project completion
 
 Defines project scope, goals, and deliverables
 
@@ -160,7 +163,8 @@ Balancing work and personal life due to long hours and burnout
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
-**Unit Testing** - Performed by developers to test individual components of the software in isolation to ensure that each unit works correctly. For example, testing a login function to verify it correctly validates user credentials. 
+# Unit Testing
+Performed by developers to test individual components of the software in isolation to ensure that each unit works correctly. For example, testing a login function to verify it correctly validates user credentials. 
 
 ## Importance
 
@@ -168,7 +172,8 @@ Identify bugs early in development
 
 Helps maintain code quality and simplifies debugging
 
-**Integration Testing** - Performed by developers and testers to test interactions between integrated components or systems to ensure they work together as expected. For example, Checking if the payment gateway in an e-commerce website processes transactions correctly when integrated with the checkout module.
+# Integration Testing
+Performed by developers and testers to test interactions between integrated components or systems to ensure they work together as expected. For example, Checking if the payment gateway in an e-commerce website processes transactions correctly when integrated with the checkout module.
 
 ## Importance
 
@@ -176,7 +181,8 @@ Detects issues in data flow between modules
 
 Ensures seamless functionality across integrated components
 
-**System Testing** - Performed by QA testers to test the entire system as a whole to verify that it meets functional and non-functional requirements. It evaluates the complete application to ensure it works as intended.  For example, testing an entire banking application to ensure transactions, user authentication, and notification work properly.
+# System Testing
+Performed by QA testers to test the entire system as a whole to verify that it meets functional and non-functional requirements. It evaluates the complete application to ensure it works as intended.  For example, testing an entire banking application to ensure transactions, user authentication, and notification work properly.
 
 ## Importance
 
@@ -184,7 +190,8 @@ Validates the overall behavior of the system
 
 Helps identify issues before deployment
 
-**Acceptance Testing** - Performed by end users, clients, or QA teams to determine whether the software meets business and user requirements. This ensures that the final product is ready for deployment. For example, a company testing its new HR management system before rolling it out to employees.
+# Acceptance Testing
+Performed by end users, clients, or QA teams to determine whether the software meets business and user requirements. This ensures that the final product is ready for deployment. For example, a company testing its new HR management system before rolling it out to employees.
 
 ## Importance
 
