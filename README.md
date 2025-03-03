@@ -83,7 +83,23 @@ In E-commerce website development where new features and user experience enhance
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
+**Software Developer** - Designs, code, and maintain software applications
 
+Write clean, efficient, and maintainable code
+
+Implement software features based on requirements
+
+Debug and troubleshoot issues in the codebase
+
+Collaborate with designers, QA engineers, and other developers
+
+Optimize application performance and scalability
+
+Maintain documentation for code and system design
+
+**Quality Assurance Engineer** - 
+
+**Project Manager** - 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
