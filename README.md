@@ -13,6 +13,12 @@ It is the backbone of the modern world as it helps shape a better future by addr
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
+**The Birth of Software Engineering**
+
+The term "Software Engineering" was first introduced at the 1968 NATO Software Engineering Conference. Software development was recognized as an engineering discipline due to the increasing complexity of software systems and the "software crisis", where projects often exceeded budgets, missed deadlines, or failed. The conference emphasized structured approaches to software development, leading to formalized methodologies.
+
+**The Rise of Software Engineering Practices**
+
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
