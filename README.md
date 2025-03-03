@@ -6,7 +6,7 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
-Software engineering is a branch of engineering associated with developing software products using well-defined scientific principles, procedures, and methods.
+**Software engineering** is a branch of engineering associated with developing software products using well-defined scientific principles, procedures, and methods.
 
 ## Its importance in the technology industry
 It is the backbone of the modern world as it helps shape a better future by addressing challenges in various domains such as enabling remote education, healthcare systems, or improving online security. 
@@ -23,7 +23,8 @@ During this period, Object-oriented programming (OOP) gained widespread adoption
 
 **Modern Software Engineering**
 
-
+In 2001, the Agile Manifesto was introduced emphasizing flexibility, collaboration, and iterative development over rigid document-heavy methodologies like the Waterfall model.
+Agile Methodologies such as Scrum and Kanban, became widely adopted enabling teams to respond quickly to changing requirements, improve software quality, and deliver products faster through continuous integration and deplopyment.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
