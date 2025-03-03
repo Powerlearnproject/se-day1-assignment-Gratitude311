@@ -113,7 +113,17 @@ Verify that the final product meets business and user requirements
 
 **Project Manager** - Overseas the software development process to ensure timely and successful project completion
 
+Defines project scope, goals, and deliverables
 
+Develop and manage project timelines and budgets
+
+Allocate resources and assign tasks to team members
+
+Communicate with stakeholders to ensure alignment on project objectives
+
+Identify and mitigate project risks
+
+Ensure the project stays on schedule and within budget
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
