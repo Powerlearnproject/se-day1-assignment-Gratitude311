@@ -16,6 +16,14 @@ Identify and describe at least three key milestones in the evolution of software
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
+## Idea Generation -
+This phase involved gathering and analyzing users's needs and expectations. Developers and stakeholders collaborate to document functional and non-functional requirements.
+
+## Planning
+Based on the requirements, the team creates a project roadmap, estimates the costs, allocates resources, and defines a timeline for the development.
+
+## Product design
+
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
