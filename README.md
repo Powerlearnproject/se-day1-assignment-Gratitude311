@@ -70,12 +70,15 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 **Vague Prompt**
+
 Write about AI
 
 **Improved Prompt**
+
 Explain how AI is improving the healthcare industry, including three real-world applications and their benefits.
 
 **Why the improved prompt is more effective**
+
 It is specific and concise eliminating ambiguity thus making it easy for AI to provide the relevant response. It is also clear on AI in healthcare rather than AI in general. All these ensure that the response is informative, well-organized, and aligned with the user's intent.
 
 
