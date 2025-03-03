@@ -97,9 +97,23 @@ Optimize application performance and scalability
 
 Maintain documentation for code and system design
 
-**Quality Assurance Engineer** - 
+**Quality Assurance Engineer** - Ensures the software meets quality standards before release
 
-**Project Manager** - 
+Develop and execute test plans, cases, and scripts
+
+Identify, document, and report software defects.
+
+Conduct functional, performance, and security checks.
+
+Automate testing processes where applicable
+
+Work closely with developers to ensure issues are resolved
+
+Verify that the final product meets business and user requirements
+
+**Project Manager** - Overseas the software development process to ensure timely and successful project completion
+
+
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
