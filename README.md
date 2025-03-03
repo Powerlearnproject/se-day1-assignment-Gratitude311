@@ -52,11 +52,28 @@ Involves creating the system architecture and design specifications such as syst
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 Waterfall uses the linear and sequential approach while Agile uses an iterative and incremental approach
+
 Waterfall is rigid as changes are difficult to implement once a phase is completed while Agile is highly flexible as changes can be made at any stage
+
 Waterfall has fixed phases. This includes requirements, design, implementation, testing, deployment, and maintenance. With Agile, it's a continuous cycle. 
+
 In waterfall, there is limited customer involvement as they see the product only after completion. In Agile, there is high customer involvement as they provide feedback regularly throughout the development.
+
 In waterfall, testing is carried out after the development is completed while in Agile testing is conducted continuously throughout the development.
+
 In Waterfall, there is a high risk as issues are identified late in the process while in Agile there is a lower risk due to early and continuous feedback
+
+## Scenarios of when to use Waterfall
+
+In construction or engineering software where changes after implementation are costly and impractical
+
+In medical software development where extensive testing and approvals are required before release.
+
+In Large Government or Enterprise projects when regulatory compliance and documentation are critical. An example is in military software and banking system.
+
+## Scenarios of when to use Agile
+
+
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
