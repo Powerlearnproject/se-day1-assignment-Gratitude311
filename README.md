@@ -132,7 +132,7 @@ What are some common challenges faced by software engineers? Provide strategies 
 
 Keeping up with the rapidly evolving tech industry that requires continuous learning
 
-**Strategy** - Follow industry blogs, attend webinars and take online courses. Also, join developers communities and work on personal projects to practice new Technologies.
+**Strategies** - Follow industry blogs, attend webinars, and take online courses. Join developers' communities and work on personal projects to practice new Technologies.
 
 Identifying Software bugs which can be time-consuming and frustrating
 
@@ -160,6 +160,37 @@ Balancing work and personal life due to long hours and burnout
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
+**Unit Testing** - Performed by developers to test individual components of the software in isolation to ensure that each unit works correctly. For example, testing a login function to verify it correctly validates user credentials. 
+
+## Importance
+
+Identify bugs early in development
+
+Helps maintain code quality and simplifies debugging
+
+**Integration Testing** - Performed by developers and testers to test interactions between integrated components or systems to ensure they work together as expected. For example, Checking if the payment gateway in an e-commerce website processes transactions correctly when integrated with the checkout module.
+
+## Importance
+
+Detects issues in data flow between modules
+
+Ensures seamless functionality across integrated components
+
+**System Testing** - Performed by QA testers to test the entire system as a whole to verify that it meets functional and non-functional requirements. It evaluates the complete application to ensure it works as intended.  For example, testing an entire banking application to ensure transactions, user authentication, and notification work properly.
+
+## Importance
+
+Validates the overall behavior of the system
+
+Helps identify issues before deployment
+
+**Acceptance Testing** - Performed by end users, clients, or QA teams to determine whether the software meets business and user requirements. This ensures that the final product is ready for deployment. For example, a company testing its new HR management system before rolling it out to employees.
+
+## Importance
+
+Confirms the software meets customer expectations
+
+ Reduces risks before full-scale deployment
 
 #Part 2: Introduction to AI and Prompt Engineering
 
