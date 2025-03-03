@@ -19,6 +19,11 @@ The term "Software Engineering" was first introduced at the 1968 NATO Software E
 
 **The Rise of Software Engineering Practices**
 
+During this period, Object-oriented programming (OOP) gained widespread adoption, revolutionizing software development. Languages like C++ and Java introduced concepts such as encapsulation, inheritance, and polymorphism making software more modular, reusable, and easier to maintain. OOP principles improved collaboration in large teams and led to the development of scalable and efficient systems.
+
+**Modern Software Engineering**
+
+
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
